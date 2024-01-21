@@ -1050,7 +1050,7 @@ ol {
 .blog-item {
 	background: #191919;
 	margin-bottom: 30px;
-	height: 390px;
+	height: 500px;
 }
 
 .blog-item.solid-bg {
@@ -1060,6 +1060,7 @@ ol {
 
 .blog-item.solid-bg .bi-text {
 	padding: 0;
+	margin-right: 2px;
 }
 
 .blog-item.solid-bg .bi-text ul li {
